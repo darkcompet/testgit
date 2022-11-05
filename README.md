@@ -12,5 +12,6 @@ User 2: commit E to develop at local2
 
 after: git history: A -> B -> C??
 
-Action:
+Actions:
+user 1 push
 user 2 push
